@@ -18,7 +18,7 @@
 
             <div class="contact-container container-block">
                 <ul class="list-unstyled contact-list">
-                    <li class="email"><i class="fa fa-envelope"></i><a href="mailto: yourname@email.com">tbmh@easv.dk</a></li>
+                    <li class="email"><i class="fa fa-envelope"></i><a href="mailto:tbmh@easv.dk">tbmh@easv.dk</a></li>
                     <li class="phone"><i class="fa fa-phone"></i><a href="tel:41991208">41 99 12 08</a></li>
                     <li class="phone"><i class="fa fa-birthday-cake"></i>10. august 1987</li>
                     <li class="linkedin"><i class="fa fa-linkedin"></i><a href="http://linkedin.com/in/thohadk" target="_blank">linkedin.com/in/thohadk</a></li>
